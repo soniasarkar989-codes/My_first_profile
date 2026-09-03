@@ -1,2 +1,20 @@
-# My_first_profile
-My_learning_journey
+# Hi, I'm Sonia Sarkar
+
+### BCA student | Aspiring Cyber security Anthusist 
+       
+
+   - 🎓 Studying at DAITM, kolkata
+   - 🌱 Currently learning computer science,python &
+        Networking basics
+   - 🎯 Goal :  To become a Cyber security expert with a
+        focus on Ethical Hacking and Server security
+   _ 📫 Connect with me on LinkedIn
+         
+
+___
+
+### My skills
+ 
+- Python
+- Computer Networking
+- Cyber security fundamentals
