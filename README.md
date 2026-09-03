@@ -9,7 +9,7 @@
    - 🎯 Goal :  To become a Cyber security expert with a
         focus on Ethical Hacking and Server security
 
-   _ 📫 Connect with me on LinkedIn
+   – 📫 Connect with me on LinkedIn
          
 
 ___
